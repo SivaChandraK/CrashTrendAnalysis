@@ -3,6 +3,9 @@
 
 This project analyzes crash trends based on a dataset capturing details about crashes, including time, location, vehicle involvement, demographics, and holiday periods. The analysis uses Python with libraries such as pandas and matplotlib for data processing and visualization.
 
+## Dataset
+The dataset used for this analysis can be accessed [here](https://www.kaggle.com/datasets/khafre/australian-road-death-database-october-2023?select=ardd_fatalities.csv).
+
 ## Key Features
 
 1. **Data Cleaning**
