@@ -111,6 +111,14 @@ plt.show()
 
 4. **Holiday Periods**
    - Crashes during holiday periods account for 3.6%, consistent with the 3.6% time these periods represent in a year.
+     
+5. **Age of Driver**
+   - Young Drivers (17-25 years): This group has the highest crash involvement due to inexperience and riskier driving behavior.
+
+6. **Speed of Vehicle**
+   - Low Speed Limits (20-60 km/h): Crashes in these zones are predominantly single-vehicle, reflecting urban or residential areas.
+   - Moderate Speed Limits (70-90 km/h): Both single- and multiple-vehicle crashes occur, typical of arterial roads or semi-rural areas.
+   - High Speed Limits (100+ km/h): High-speed crashes are often multiple-vehicle and severe, characteristic of highway conditions.
 
 ## Usage
 
