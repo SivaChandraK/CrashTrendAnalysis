@@ -146,6 +146,3 @@ plt.show()
 
 ## Contributions
 Contributions are welcome! Please submit issues or pull requests to suggest improvements.
-
-## License
-This project is licensed under the MIT License.
